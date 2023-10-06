@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df2e7b3a-4f72-4c8b-bc3a-ac215cfec231" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/maven_project_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/HelloHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/HttpServerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/springDemo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/springDemo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/springDemo/SpringClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amazon/springDemo/SpringDemoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/notificationDemo/NotificationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/notificationDemo/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/notificationDemo/SMSGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/SpringClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/SpringClientDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/createBean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/projectBean.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2W2vMu1QxcL9xfxRqDnGVgPlZep" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/irshad/Desktop/JBDL/JavaBackend",
+    "onboarding.tips.debug.path": "/home/irshad/Desktop/JBDL/maven-project/src/main/java/org/jbdl/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.NotificationClient">
+    <configuration name="NotificationClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.notificationDemo.NotificationClient" />
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.notificationDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.spring.SpringClient" />
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.spring.SpringClientDemo" />
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amazon.springDemo.SpringDemoClient" />
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amazon.springDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.amazon.springDemo.SpringClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amazon.springDemo.SpringClient" />
+      <module name="maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amazon.springDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NotificationClient" />
+        <item itemvalue="Application.SpringClientDemo" />
+        <item itemvalue="Application.SpringClient" />
+        <item itemvalue="Application.org.amazon.springDemo.SpringClient" />
+        <item itemvalue="Application.SpringDemoClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df2e7b3a-4f72-4c8b-bc3a-ac215cfec231" name="Changes" comment="" />
+      <created>1695943446573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695943446573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/spring/SpringClient.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/spring/SpringClientDemo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/spring/SpringClientDemo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/spring/SpringClientDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/amazon/springDemo/SpringDemoClient.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maven_project$DBConnection.ic" NAME="DBConnection Coverage Results" MODIFIED="1696077839675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.amazon.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maven_project$SpringClientDemo.ic" NAME="SpringClientDemo Coverage Results" MODIFIED="1696487321889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.spring.*</FILTER>
+    </SUITE>
+  </component>
+</project>

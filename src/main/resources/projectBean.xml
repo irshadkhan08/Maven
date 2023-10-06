@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+
+    <bean id="address1" class="org.amazon.springDemo.Address" lazy-init="true">
+        <property name="pincode" value="125001"></property>
+        <property name="district" value="hisar"></property>
+    </bean>
+
+    <bean id="address2" class="org.amazon.springDemo.Address" lazy-init="true">
+        <property name="pincode" value="125002"></property>
+        <property name="district" value="hisar2"></property>
+    </bean>
+
+<!--    <bean id="person1" class="org.amazon.springDemo.Person" scope="prototype" lazy-init="true" init-method="beanInitialization"-->
+<!--          destroy-method="beanDestruction">-->
+
+    <bean id="person1" class="org.amazon.springDemo.Person" >
+        <property name="name" value="John"></property>
+        <property name="address" ref="address1"></property>
+    </bean>
+
+    <bean id="person2" class="org.amazon.springDemo.Person">
+        <property name="name" value="kapil"></property>
+        <property name="address" ref="address2"></property>
+    </bean>
+
+</beans>
